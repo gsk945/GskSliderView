@@ -6,7 +6,10 @@
 
 
 3.有问题可以联系我 gsk945@163.com(请别吝啬你们的star)
+
+
 效果展示：
+
 ![](https://github.com/gsk945/GskSliderView/blob/master/SliderDemo/Resource/侧滑.gif)
 
 #   用法简介
